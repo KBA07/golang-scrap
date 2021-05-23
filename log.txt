@@ -1,0 +1,12 @@
+2021/05/23 11:46:00 error: open /path/to/config.toml: no such file or directory
+can't open configuration file
+main.readConfig
+	/Users/kashif.ali/go/src/github.com/KBA07/golang-scrap/error.go:25
+main.ErrorFunc
+	/Users/kashif.ali/go/src/github.com/KBA07/golang-scrap/error.go:40
+main.main
+	/Users/kashif.ali/go/src/github.com/KBA07/golang-scrap/main.go:12
+runtime.main
+	/usr/local/go/src/runtime/proc.go:225
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1371

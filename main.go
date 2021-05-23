@@ -9,6 +9,7 @@ func main() {
 	Basic()
 	Functions()
 	Oop()
+	ErrorFunc()
 }
 
 // type Article struct {
