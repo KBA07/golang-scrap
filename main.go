@@ -8,6 +8,7 @@ package main // makes the go execute and not a package
 func main() {
 	Basic()
 	Functions()
+	Oop()
 }
 
 // type Article struct {
