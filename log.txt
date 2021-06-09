@@ -10,3 +10,4 @@ runtime.main
 	/usr/local/go/src/runtime/proc.go:225
 runtime.goexit
 	/usr/local/go/src/runtime/asm_amd64.s:1371
+2021/06/09 22:10:09 error: can't open config file - open config.toml: no such file or directory

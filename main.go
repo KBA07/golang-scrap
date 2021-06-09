@@ -6,10 +6,13 @@ comments
 package main // makes the go execute and not a package
 
 func main() {
-	Basic()
-	Functions()
-	Oop()
-	ErrorFunc()
+	// Basic()
+	// Functions()
+	// Oop()
+	// ErrorFunc()
+	// GoRoutines()
+	// ProjectManagement()
+	JSON()
 }
 
 // type Article struct {
