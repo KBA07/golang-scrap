@@ -1,3 +1,4 @@
+// http test package for automating http test
 package main
 
 import (
